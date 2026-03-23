@@ -1,0 +1,15 @@
+C:\Users\User\apbd_task2\APBD_TASK2\bin\Debug\net10.0\APBD_TASK2.exe
+C:\Users\User\apbd_task2\APBD_TASK2\bin\Debug\net10.0\APBD_TASK2.deps.json
+C:\Users\User\apbd_task2\APBD_TASK2\bin\Debug\net10.0\APBD_TASK2.runtimeconfig.json
+C:\Users\User\apbd_task2\APBD_TASK2\bin\Debug\net10.0\APBD_TASK2.dll
+C:\Users\User\apbd_task2\APBD_TASK2\bin\Debug\net10.0\APBD_TASK2.pdb
+C:\Users\User\apbd_task2\APBD_TASK2\obj\Debug\net10.0\APBD_TASK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\apbd_task2\APBD_TASK2\obj\Debug\net10.0\APBD_TASK2.AssemblyInfoInputs.cache
+C:\Users\User\apbd_task2\APBD_TASK2\obj\Debug\net10.0\APBD_TASK2.AssemblyInfo.cs
+C:\Users\User\apbd_task2\APBD_TASK2\obj\Debug\net10.0\APBD_TASK2.csproj.CoreCompileInputs.cache
+C:\Users\User\apbd_task2\APBD_TASK2\obj\Debug\net10.0\APBD_TASK2.sourcelink.json
+C:\Users\User\apbd_task2\APBD_TASK2\obj\Debug\net10.0\APBD_TASK2.dll
+C:\Users\User\apbd_task2\APBD_TASK2\obj\Debug\net10.0\refint\APBD_TASK2.dll
+C:\Users\User\apbd_task2\APBD_TASK2\obj\Debug\net10.0\APBD_TASK2.pdb
+C:\Users\User\apbd_task2\APBD_TASK2\obj\Debug\net10.0\APBD_TASK2.genruntimeconfig.cache
+C:\Users\User\apbd_task2\APBD_TASK2\obj\Debug\net10.0\ref\APBD_TASK2.dll
